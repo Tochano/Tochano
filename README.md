@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tochano
 - 👀 I’m interested in financial services, fintech, martech, and Seattle 'grunge'
-- 🌱 I’m currently building a web app that generates written content powered by AI and ML
+- 🌱 I’m currently beta testing a web app I built that generates written content powered by AI and ML
 - 💞️ I’m looking to collaborate on projects related to any of the topics above
 - 📫 How to reach me: [linktr.ee/Tochano](https://linktr.ee/Tochano)
 
